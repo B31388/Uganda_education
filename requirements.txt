@@ -1,0 +1,11 @@
+pandas
+numpy
+panel
+plotly
+bokeh
+geopandas
+shapely
+pyproj
+requests
+dash
+dash_bootstrap_components
